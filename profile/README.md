@@ -13,7 +13,7 @@ Atomic Data has been designed with [the following goals in mind](https://docs.at
 - Make it easier for developers to build highly interoperable apps
 - Make standardization easier and cheaper
 
-Atomic Data is [Linked Data](https://ontola.io/what-is-linked-data/), as it is a [strict subset of RDF](https://docs.atomicdata.dev/interoperability/rdf.html).
+Atomic Data is [Linked Data](https://ontola.io/blog/what-is-linked-data/), as it is a [strict subset of RDF](https://docs.atomicdata.dev/interoperability/rdf.html).
 It is type-safe (you know if something is a `string`, `number`, `date`, `URL`, etc.) and extensible through [Atomic Schema](https://docs.atomicdata.dev/schema/intro.html), which means that you can re-use or define your own Classes, Properties and Datatypes.
 
 The default serialization format for Atomic Data is [JSON-AD](https://docs.atomicdata.dev/core/json-ad.html), which is simply JSON where each key is a URL of an Atomic Property.
