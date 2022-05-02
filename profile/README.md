@@ -4,6 +4,8 @@
 
 Atomic Data uses links to connect pieces of data, and therefore makes it easier to connect datasets to each other - even when these datasets exist on separate machines.
 
+## The specification
+
 Atomic Data has been designed with [the following goals in mind](https://docs.atomicdata.dev/motivation.html):
 
 - Give people more control over their data
