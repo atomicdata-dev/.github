@@ -4,17 +4,17 @@
 
 Atomic Data uses links to connect pieces of data, and therefore makes it easier to connect datasets to each other - even when these datasets exist on separate machines.
 
-Atomic Data has been designed with [the following goals in mind](motivation.md):
+Atomic Data has been designed with [the following goals in mind](https://docs.atomicdata.dev/motivation.html):
 
 - Give people more control over their data
 - Make linked data easier to use
 - Make it easier for developers to build highly interoperable apps
 - Make standardization easier and cheaper
 
-Atomic Data is [Linked Data](https://ontola.io/what-is-linked-data/), as it is a [strict subset of RDF](interoperability/rdf.md).
-It is type-safe (you know if something is a `string`, `number`, `date`, `URL`, etc.) and extensible through [Atomic Schema](schema/intro.md), which means that you can re-use or define your own Classes, Properties and Datatypes.
+Atomic Data is [Linked Data](https://ontola.io/what-is-linked-data/), as it is a [strict subset of RDF](https://docs.atomicdata.dev/interoperability/rdf.html).
+It is type-safe (you know if something is a `string`, `number`, `date`, `URL`, etc.) and extensible through [Atomic Schema](https://docs.atomicdata.dev/schema/intro.html), which means that you can re-use or define your own Classes, Properties and Datatypes.
 
-The default serialization format for Atomic Data is [JSON-AD](core/json-ad.md), which is simply JSON where each key is a URL of an Atomic Property.
+The default serialization format for Atomic Data is [JSON-AD](https://docs.atomicdata.dev/core/json-ad.html), which is simply JSON where each key is a URL of an Atomic Property.
 These Properties are responsible for setting the `datatype` (to ensure type-safety) and setting `shortnames` (which help to keep names short, for example in JSON serialization) and `descriptions` (which provide semantic explanations of what a property should be used for).
 
 Atomic Data has specifications for [authentication](https://docs.atomicdata.dev/authentication.html), [authorization](https://docs.atomicdata.dev/hierarchy.html), [querying / filtering / pagination](https://docs.atomicdata.dev/hierarchy.html), [event sourcing and versioning](https://docs.atomicdata.dev/commits/intro.html), [file management](https://docs.atomicdata.dev/files.html), [websockets](https://docs.atomicdata.dev/websockets.html), [API endpoints](https://docs.atomicdata.dev/endpoints.html) and more.
