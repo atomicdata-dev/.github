@@ -2,8 +2,6 @@
 
 **Atomic Data is a modular specification for sharing, modifying and modeling graph data. It combines the ease of use of JSON, the connectivity of RDF (linked data) and the reliability of type-safety.**
 
-![Venn diagram showing Atomic Data is the combination of JSON, RDF and Type-Safety](assets/venn.svg)
-
 Atomic Data uses links to connect pieces of data, and therefore makes it easier to connect datasets to each other - even when these datasets exist on separate machines.
 
 Atomic Data has been designed with [the following goals in mind](motivation.md):
