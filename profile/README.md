@@ -1,4 +1,4 @@
-![Atomic Data](https://raw.githubusercontent.com/ontola/atomic-data-docs/master/src/assets/atomic_data_logo_stroke.svg)
+[![Atomic Data](https://raw.githubusercontent.com/ontola/atomic-data-docs/master/src/assets/atomic_data_logo_stroke.svg)](https://atomicdata.dev)
 
 **Atomic Data is a modular specification for sharing, modifying and modeling graph data. It combines the ease of use of JSON, the connectivity of RDF (linked data) and the reliability of type-safety.**
 
