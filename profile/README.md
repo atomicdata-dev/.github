@@ -25,14 +25,14 @@ Atomic Data has specifications for [authentication](https://docs.atomicdata.dev/
 
 ## Tools & libraries
 
-- Host your own [atomic-server](https://github.com/atomicdata-dev/atomic-data-rust) (powers [atomicdata.dev](https://atomicdata.dev), run with `docker run -p 80:80 -p 443:443 -v atomic-storage:/atomic-storage joepmeneer/atomic-server`)
-- Browser app [atomic-data-browser](https://github.com/atomicdata-dev/atomic-data-browser) with group chat, tables, documents and more. ([demo on atomicdata.dev](https://atomicdata.dev))
-- Use the typescript library [`@tomic/lib`](https://www.npmjs.com/package/@tomic/lib)
-- Build a react app using [`@tomic/react`](https://www.npmjs.com/package/@tomic/react). Start with the [react template on codesandbox](https://codesandbox.io/s/atomic-data-react-template-4y9qu?file=/src/MyResource.tsx)
-- Discover the command line tool: [atomic-cli](https://github.com/joepio/atomic) (`cargo install atomic-cli`)
-- Use the Rust library: [atomic-lib](https://github.com/joepio/atomic)
-- Svelte example project ([model builder](https://github.com/atomicdata-dev/atomic-data-model-builder))
-- Check out the RayCast [plugin](https://github.com/atomicdata-dev/atomic-raycast)
+- [**atomic-server**](https://github.com/atomicdata-dev/atomic-data-rust): powerful database + all-in-one workspace (powers [atomicdata.dev](https://atomicdata.dev), run with `docker run -p 80:80 -p 443:443 -v atomic-storage:/atomic-storage joepmeneer/atomic-server`)
+- **Browser GUI app** [atomic-data-browser](https://github.com/atomicdata-dev/atomic-data-browser) (bundled with atomic-server) features group chat, tables, documents and more. ([demo on atomicdata.dev](https://atomicdata.dev))
+- **Typescript** library: [@tomic/lib](https://www.npmjs.com/package/@tomic/lib)
+- **React** library: [@tomic/react](https://www.npmjs.com/package/@tomic/react). Start with the [react template on codesandbox](https://codesandbox.io/s/atomic-data-react-template-4y9qu?file=/src/MyResource.tsx)
+- **Command line tool**: [atomic-cli](https://github.com/joepio/atomic) (`cargo install atomic-cli`)
+- **Rust** library: [atomic-lib](https://github.com/joepio/atomic)
+- **Svelte** example project: [model builder](https://github.com/atomicdata-dev/atomic-data-model-builder)
+- **RayCast** [plugin](https://github.com/atomicdata-dev/atomic-raycast) (quickly search in your atomic-server)
 
 ## Get involved
 
