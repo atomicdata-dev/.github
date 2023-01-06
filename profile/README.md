@@ -31,7 +31,7 @@ Atomic Data has specifications for [authentication](https://docs.atomicdata.dev/
 - **React** library: [@tomic/react](https://www.npmjs.com/package/@tomic/react). Start with the [react template on codesandbox](https://codesandbox.io/s/atomic-data-react-template-4y9qu?file=/src/MyResource.tsx)
 - **Command line tool**: [atomic-cli](https://github.com/joepio/atomic) (`cargo install atomic-cli`)
 - **Rust** library: [atomic-lib](https://github.com/joepio/atomic)
-- **Svelte** example project: [model builder](https://github.com/atomicdata-dev/atomic-data-model-builder)
+- **Svelte** [library](https://github.com/atomicdata-dev/atomic-svelte) and example project: [model builder](https://github.com/atomicdata-dev/atomic-data-model-builder)
 - **RayCast** [plugin](https://github.com/atomicdata-dev/atomic-raycast) (quickly search in your atomic-server)
 
 ## Get involved
