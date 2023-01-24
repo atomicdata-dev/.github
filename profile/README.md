@@ -29,7 +29,7 @@ Atomic Data has specifications for [authentication](https://docs.atomicdata.dev/
 - **Browser GUI app** [atomic-data-browser](https://github.com/atomicdata-dev/atomic-data-browser) (bundled with atomic-server) features group chat, tables, documents and more. ([demo on atomicdata.dev](https://atomicdata.dev))
 - **Typescript** library: [@tomic/lib](https://www.npmjs.com/package/@tomic/lib)
 - **React** library: [@tomic/react](https://www.npmjs.com/package/@tomic/react). Start with the [react template on codesandbox](https://codesandbox.io/s/atomic-data-react-template-4y9qu?file=/src/MyResource.tsx)
-- **Svelte** library: [@tomic/svelte](https://github.com/atomicdata-dev/atomic-svelte) and example project: [model builder](https://github.com/atomicdata-dev/atomic-data-model-builder)
+- **Svelte** library: [@tomic/svelte](https://github.com/atomicdata-dev/atomic-svelte)
 - **Command line tool**: [atomic-cli](https://github.com/joepio/atomic) (`cargo install atomic-cli`)
 - **Rust** library: [atomic-lib](https://github.com/joepio/atomic)
 - **RayCast** plugin: [atomic-raycast](https://github.com/atomicdata-dev/atomic-raycast) (quickly search in your atomic-server)
@@ -37,6 +37,7 @@ Atomic Data has specifications for [authentication](https://docs.atomicdata.dev/
 ## Example projects
 
 - [Atomic-Server as Headless CMS + SvelteKit](https://github.com/ontola/wonenatthepark/)
+- [Atomic Data Model Builder](https://github.com/atomicdata-dev/atomic-data-model-builder) built with @tomic/svelte
 
 ## Get involved
 
