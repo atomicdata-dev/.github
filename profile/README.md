@@ -36,7 +36,7 @@ Atomic Data has specifications for [authentication](https://docs.atomicdata.dev/
 
 ## Example projects
 
-- [Argu + Atomic + SvelteKit](https://github.com/ontola/wonenatthepark/)
+- [Atomic-Server as Headless CMS + SvelteKit](https://github.com/ontola/wonenatthepark/)
 
 ## Get involved
 
