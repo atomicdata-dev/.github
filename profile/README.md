@@ -34,6 +34,10 @@ Atomic Data has specifications for [authentication](https://docs.atomicdata.dev/
 - **Rust** library: [atomic-lib](https://github.com/joepio/atomic)
 - **RayCast** plugin: [atomic-raycast](https://github.com/atomicdata-dev/atomic-raycast) (quickly search in your atomic-server)
 
+## Example projects
+
+- [Argu + Atomic + SvelteKit](https://github.com/ontola/wonenatthepark/)
+
 ## Get involved
 
 Make sure to [join our Discord](https://discord.gg/a72Rv2P) if you'd like to discuss Atomic Data with others.
