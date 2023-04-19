@@ -25,7 +25,7 @@ Atomic Data has specifications for [authentication](https://docs.atomicdata.dev/
 
 ## Tools & libraries
 
-- [**atomic-server**](https://github.com/atomicdata-dev/atomic-data-rust): powerful database + all-in-one workspace (powers [atomicdata.dev](https://atomicdata.dev), run with `docker run -p 80:80 -p 443:443 -v atomic-storage:/atomic-storage joepmeneer/atomic-server`)
+- [**AtomicServer**](https://github.com/atomicdata-dev/atomic-server): powerful database + all-in-one workspace (powers [atomicdata.dev](https://atomicdata.dev), run with `docker run -p 80:80 -p 443:443 -v atomic-storage:/atomic-storage joepmeneer/atomic-server`)
 - **Browser GUI app** [atomic-data-browser](https://github.com/atomicdata-dev/atomic-data-browser) (bundled with atomic-server) features group chat, tables, documents and more. ([demo on atomicdata.dev](https://atomicdata.dev))
 - **Typescript** library: [@tomic/lib](https://www.npmjs.com/package/@tomic/lib)
 - **React** library: [@tomic/react](https://www.npmjs.com/package/@tomic/react). Start with the [react template on codesandbox](https://codesandbox.io/s/atomic-data-react-template-4y9qu?file=/src/MyResource.tsx)
